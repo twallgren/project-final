@@ -1,2 +1,1 @@
-# project-final
-Repository for CS3620 final project
+# Repository for CS3620 final project
